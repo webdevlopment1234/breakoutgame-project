@@ -1,0 +1,10 @@
+so basically the structure as follows 
+1.welcome.html
+2.levels.html
+3.article.html-1stlevel article
+4.article2.html-2-levelarticle
+5.article3.html3-levelarticle
+6.index.html
+7.medium.html
+8.hard.html
+NOTE:-CONNECT WELCOME WITH LEVELS AND LEVELS WITH ARTICLE AND ARTICLES WITH LEVELS 
